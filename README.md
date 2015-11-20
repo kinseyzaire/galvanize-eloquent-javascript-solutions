@@ -2,7 +2,7 @@
 
 Fork this repo and submit a pull request with your solutions to the Eloquent JavaScript exercises for Chapters 2, 3
 
-## Add your solutions to Chapter 2 exercises to the following js files;
+### Add your Chapter 2 solutions to the following js files:
 
 ```
 Chapter 2
@@ -11,7 +11,7 @@ chess_board.js
 looping_triangle.js
 fizz_buzz.js
 ```
-## Add your solutions to Chapter 3 exercises to the following js files;
+### Add your Chapter 3 solutions to the following js files:
 ```
 Chapter 3
 minimum.js
