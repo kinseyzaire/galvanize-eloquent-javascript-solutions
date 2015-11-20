@@ -1,6 +1,6 @@
 # Eloquent Javascript Solutions
 
-Fork this repo and submit a pull request with your solutions to the Eloquent JavaScript exercises for Chapters 2, 3
+Fork this repo and submit a pull request with your solutions to the Eloquent JavaScript exercises for [Chapters 2, 3](http://eloquentjavascript.net/)
 
 ## Name your solutions as follows:
 
