@@ -29,4 +29,4 @@ node looping_triangle.js
 node fizz_buzz.js
 ```
 
-Submit a pull request after pushing your exercise first solution (`chess_board.js`).
+Submit a pull request after pushing your first exercise solution (`chess_board.js`).
