@@ -1,5 +1,7 @@
-var triangle = ""
-while (triangle.length<7) {
-    triangle += "#";
-    console.log(triangle);
+function triangle(x) {
+   var i = ""
+   while (i.length<x) {
+       i += "#";
+       console.log(i);
+   }
 }
