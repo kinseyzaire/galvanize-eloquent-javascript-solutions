@@ -9,3 +9,4 @@ function chessboard(x) {
       console.log(lineA + "\n" + lineB);
    }
 }
+chessboard(150);
